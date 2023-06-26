@@ -24,7 +24,5 @@
   <img align="center" alt="Angel-Google-Cloud" height="30" width="150" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
 </div>
 <br/>
-
-  ##
  
 
