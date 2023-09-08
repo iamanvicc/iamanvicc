@@ -1,6 +1,6 @@
-# Olá! Me chamo Angel Victória 👼🏼👋
+# Olá! Me chamo Angel Victória 👋
 ### Sobre...
-<p>Sou completamente apaixonada por desenvolver interfaces web utilizando tecnologia, design de interfaces, motion e 3D 😄</p>
+<p>Sou apaixonada por desenvolver interfaces web utilizando tecnologia, design de interfaces, motion e 3D 😄</p>
 <div> 
   <a href="https://instagram.com/iamanvic" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://anvic.com.br/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
