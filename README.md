@@ -1,6 +1,6 @@
 # Hello! I'm Angel Victória 👋
-### About...
-<p>I'm passionate about developing web interfaces using technology, interface design, motion and 3D 😄</p>
+<p>Software Engineer passionate about innovation and technology, specializing in JavaScript, React.js, TypeScript, Next.js, Vue.js and Node.js. With solid experience 
+  in development, maintenance, automated testing and agile methodologies such as Scrum. I'm ready to take on challenging projects</p>
 <div> 
   <a href="https://instagram.com/iamanvic" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://anvic.com.br/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
