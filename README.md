@@ -1,5 +1,4 @@
 # Hello! I'm Angel Victória 👋
-</br>
 <p>Software Engineer passionate about innovation and technology, specializing in JavaScript, React.js, TypeScript, Next.js, Vue.js and Node.js. With solid experience 
   in development, maintenance, automated testing and agile methodologies such as Scrum. I'm ready to take on challenging projects</p>
 </br>
