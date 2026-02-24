@@ -1,10 +1,10 @@
 # Hello! I'm Angel Victória 👋
 <p>
-    /en
-    Software Engineer  with experience in SaaS, EdTech, and Enterprises projects, working in complex contexts and at different maturity levels. Focus on delivering scalable and well-structured solutions, with a systemic vision, rapid adaptation to the business, and real impact on results.
-    
-    /pt 
-    Engenheira de Softwrare com experiência em projetos SaaS, EdTech e Enterprises, atuando em contextos complexos e de diferentes níveis de maturidade. Foco em entregar soluções escaláveis e bem estruturadas, com visão sistêmica, adaptação rápida ao negócio e impacto real nos resultados.
+/en
+Software Engineer  with experience in SaaS, EdTech, and Enterprises projects, working in complex contexts and at different maturity levels. Focus on delivering scalable and well-structured solutions, with a systemic vision, rapid adaptation to the business, and real impact on results.
+ 
+/pt 
+Engenheira de Softwrare com experiência em projetos SaaS, EdTech e Enterprises, atuando em contextos complexos e de diferentes níveis de maturidade. Foco em entregar soluções escaláveis e bem estruturadas, com visão sistêmica, adaptação rápida ao negócio e impacto real nos resultados.
  </p>
 </br>
 <div> 
